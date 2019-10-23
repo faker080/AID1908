@@ -1,7 +1,7 @@
 """
 multiprocessing模块完成
 创建两个子进程,分别复制一个文件的上半部分和下半部分
-，将他们各自复制到一个新文件里。
+将他们各自复制到一个新文件里。
 """
 
 from multiprocessing import Process
